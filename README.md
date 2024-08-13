@@ -15,9 +15,9 @@ RoleChat is an AI-powered character dialogue generator that creates conversation
 
 2. Install the required dependencies:
 
-run `characterglm_example.py`
+  run `characterglm_example.py`
 
-4. The generated dialogue will be saved in `dialogue.txt`.
+3. The generated dialogue will be saved in `dialogue.txt`.
 
 ## Customization
 
